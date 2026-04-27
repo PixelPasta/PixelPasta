@@ -1,40 +1,37 @@
-<div align='center'><img src='Pixel Pasta.gif' /<>
-</div>
+<div align='center'><img src='Pixel Pasta.gif' />
 
-<center>
-
-### <p style="font-size:30px">👋 Hello, I'm Pixelpasta.</p>
+### <p style="font-size:40px">👋 Hello, I'm Pixelpasta.</p>
 
 <hr>
 
-</center>
+</div>
 
-### <p style="font-size:20px">What I've been learning:</p>
+### <p style="font-size:30px">What I've been learning:</p>
 
 <ul>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
     <img src="https://img.shields.io/badge/%20-000000?logo=LeetCode&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Leetcode <a href='https://leetcode.com/u/pixelpasta/'>🔗</a>
   </span>
 </li>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
     <img src="https://img.shields.io/badge/%20-000000?logo=React&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />React.js <a href='https://react.dev/'>🔗</a>
   </span>
 </li>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
     <img src="https://img.shields.io/badge/%20-000000?logo=springsecurity&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Blue Team Security Junior Analyst Certificate <a href='https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle'>🔗</a>
   </span>
 </li>
 
 </ul>
 
-### <p style="font-size:20px">What I know:</p>
+### <p style="font-size:30px">What I know:</p>
 
 <ul>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
   Frontend
   <ul>
   <li>
@@ -47,7 +44,7 @@
   </span>
 </li>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
   Backend
   <ul>
   <li>
@@ -60,7 +57,7 @@
   </span>
 </li>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
   Database
   <ul>
   <li>
@@ -73,7 +70,7 @@
   </span>
 </li>
 <li>
-  <span style="font-size:20px">
+  <span style="font-size:30px">
   Other
   <ul>
   <li>
@@ -84,12 +81,10 @@
 </li>
 </ul>
 
-### <p style="font-size:20px">Projects:</p>
+### <p style="font-size:30px">Projects:</p>
 
 # [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PixelPasta&repo=space-time&bg_color=000000&title_color=efb7d6&text_color=efb7d6&icon_color=efb7d6&border_color=efb7d)](https://github.com/PixelPasta/space-time)
 
-<center> <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPasta.PixelPasta&right_color=#efb7d6" alt="visitors" /> </center>
-
-<p align="center">
+<p align='center'> <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPasta.PixelPasta&right_color=#efb7d6" alt="visitors"><br>
   <i>Thanks for stopping by!</i>
 </p>
