@@ -80,7 +80,7 @@
 
 ## 🚀 Projects:
 
-# [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PixelPasta&repo=space-time&bg_color=000000&title_color=efb7d6&text_color=efb7d6&icon_color=efb7d6&border_color=efb7d)](https://github.com/PixelPasta/space-time)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PixelPasta&repo=space-time&bg_color=000000&title_color=efb7d6&text_color=efb7d6&icon_color=efb7d6&border_color=efb7d)](https://github.com/PixelPasta/space-time)
 
 <p align='center'> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPasta.PixelPasta&right_color=#efb7d6" alt="visitors"><br>
