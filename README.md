@@ -1,14 +1,95 @@
-<center> <h1> Pixel Pasta </h1> 
+<div align='center'><img src='Pixel Pasta.gif' /<>
+</div>
+
+<center>
+
+### <p style="font-size:30px">👋 Hello, I'm Pixelpasta.</p>
+
+<hr>
+
+</center>
+
+### <p style="font-size:20px">What I've been learning:</p>
+
+<ul>
+<li>
+  <span style="font-size:20px">
+    <img src="https://img.shields.io/badge/%20-000000?logo=LeetCode&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Leetcode <a href='https://leetcode.com/u/pixelpasta/'>🔗</a>
+  </span>
+</li>
+<li>
+  <span style="font-size:20px">
+    <img src="https://img.shields.io/badge/%20-000000?logo=React&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />React.js <a href='https://react.dev/'>🔗</a>
+  </span>
+</li>
+<li>
+  <span style="font-size:20px">
+    <img src="https://img.shields.io/badge/%20-000000?logo=springsecurity&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Blue Team Security Junior Analyst Certificate <a href='https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle'>🔗</a>
+  </span>
+</li>
+
+</ul>
+
+### <p style="font-size:20px">What I know:</p>
+
+<ul>
+<li>
+  <span style="font-size:20px">
+  Frontend
+  <ul>
+  <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=bootstrap&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Bootstrap
+  </li>
+   <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=tailwindcss&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Tailwind
+  </li>
+  </ul>
+  </span>
+</li>
+<li>
+  <span style="font-size:20px">
+  Backend
+  <ul>
+  <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=node.js&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Node.js
+  </li>
+   <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=express&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Express.js
+  </li>
+  </ul>
+  </span>
+</li>
+<li>
+  <span style="font-size:20px">
+  Database
+  <ul>
+  <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=mongodb&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Mongo DB
+  </li>
+   <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=mysql&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />MySQL
+  </li>
+  </ul>
+  </span>
+</li>
+<li>
+  <span style="font-size:20px">
+  Other
+  <ul>
+  <li>
+     <img src="https://img.shields.io/badge/%20-000000?logo=discord.js&logoColor=efb7d6" style="vertical-align:middle; margin-right:6px;" />Discord.js
+  </li>
+  </ul>
+  </span>
+</li>
+</ul>
+
+### <p style="font-size:20px">Projects:</p>
+
+# [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PixelPasta&repo=space-time&bg_color=000000&title_color=efb7d6&text_color=efb7d6&icon_color=efb7d6&border_color=efb7d)](https://github.com/PixelPasta/space-time)
+
+<center> <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelPasta.PixelPasta&right_color=#efb7d6" alt="visitors" /> </center>
+
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <i>Thanks for stopping by!</i>
 </p>
-<h2> </center> Hi, I am PixelPasta. I like to code games, websites and apps in my free time. I know languages like html and python pretty well and am learning JavaScript. I use NodeJS to make most of my projects. I'm actively developing a <a href="https://pixelpasta.github.io/Bot.html"> <u>Discord Bot</u></a> and <a href="https://pixelpasta.github.io/API.html"><u>API</u></a>. I like to play games like Rocket League and Minecraft when I'm 
-free.<hr> 
-<li>📌<a href="https://pixelpasta.github.io/">Website</a> <br>
-<li> 📦<a href="https://pixelpasta.github.io/">API Wrapper</a> <br>
