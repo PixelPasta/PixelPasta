@@ -1,6 +1,6 @@
 <div align='center'>
   <img src='Pixel Pasta.gif' />
-  <h1>👋 Hello, I'm Pixelpasta.</h1>
+  <h3>👋 Hello, I'm Pixelpasta.</h3>
 
 </div>
 
